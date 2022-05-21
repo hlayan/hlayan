@@ -1,5 +1,5 @@
 ### Hi there 👋, I am hlayan
-#### Passionate Kotlin First Android Developer
+#### Passionate Kotlin-first Android Developer
 
 Currently, I widely use [Facebook](https://www.facebook.com/HlayanHtetAung) and [LinkedIn](https://www.linkedin.com/in/hlayanhtetaung) as social media 😍, [Telegram](https://t.me/hlayanhtetaung) as messaging 🥰, [GitHub](https://github.com/hlayan) as VCS 🤞.
 
