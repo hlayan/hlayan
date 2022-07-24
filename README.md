@@ -6,7 +6,7 @@ I'm so excited to go ahead with Jetpack Compose that is Android's modern toolkit
 
 ## Connect with me
 
-<a href="https://www.facebook.com/HlayanHtetAung">
+<a href="https://www.facebook.com/hlayan.fb">
   <img alt="Facebook" src="https://github.com/hlayan/hlayan/blob/main/connect-with-me-icons/icons8-facebook.svg" width=48" height="48">
 </a>
 
@@ -14,11 +14,11 @@ I'm so excited to go ahead with Jetpack Compose that is Android's modern toolkit
   <img alt="LinkedIn" src="https://github.com/hlayan/hlayan/blob/main/connect-with-me-icons/icons8-linkedin-circled.svg" width=48" height="48">
 </a>
 
-<a href="https://twitter.com/hlayan_dev">
+<a href="https://twitter.com/hlayan_tt">
   <img alt="Twitter" src="https://github.com/hlayan/hlayan/blob/main/connect-with-me-icons/icons8-twitter.svg" width=48" height="48">
 </a>
 
-<a href="https://t.me/hlayanhtetaung">
+<a href="https://t.me/hlayan_tg">
   <img alt="Telegram" src="https://github.com/hlayan/hlayan/blob/main/connect-with-me-icons/icons8-telegram-app.svg" width=48" height="48">
 </a>
 
