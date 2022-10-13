@@ -1,8 +1,18 @@
 ## Hi there 👋, I am hlayan
 
-Kotlin-first Android Developer who passionate about Kotlin and Modern Android Development.
+Passionate Android Developer since 2020
 
-I'm so excited to go ahead with Jetpack Compose that is Android's modern toolkit for building native UI.
+Specialize in Android Platform 😍
+
+Specialize in Kotlin Language 🥰
+
+✅ No Degree
+
+✅ No Diploma
+
+Follow the Best Practice ✌️
+
+Respect every quality code 🫡
 
 ## Connect with me
 
