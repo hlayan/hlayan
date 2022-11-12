@@ -32,10 +32,6 @@ Respect every quality code 🫡
   <img alt="Telegram" src="https://github.com/hlayan/hlayan/blob/main/connect-with-me-icons/icons8-telegram-app.svg" width=48" height="48">
 </a>
 
-<a href="https://github.com/hlayan">
-  <img alt="Github" src="https://github.com/hlayan/hlayan/blob/main/connect-with-me-icons/icons8-github.svg" width=48" height="48">
-</a>
-
 <a href="https://play.google.com/store/apps/dev?id=4979257576048559572">
   <img alt="GooglePlay" src="https://github.com/hlayan/hlayan/blob/main/connect-with-me-icons/icons8-google-play.svg" width=48" height="48">
 </a>
