@@ -6,14 +6,6 @@ Specialize in Android Platform 😍
 
 Specialize in Kotlin Language 🥰
 
-✅ No Degree
-
-✅ No Diploma
-
-Follow the Best Practice ✌️
-
-Respect every quality code 🫡
-
 ## Connect with me
 
 <a href="https://www.facebook.com/hlayan.fb">
